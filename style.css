@@ -144,10 +144,10 @@ svg {
     grid-area: red;
   }
   .orange {
-    grid-area: orange;
+    grid-area: blue;
   }
 
   .blue {
-    grid-area: blue;
+    grid-area: orange;
   }
 }
